@@ -1,0 +1,25 @@
+{
+  "name": "node-intro-exercise",
+  "version": "1.0.0",
+  "description": "Springboard's intro to using NodeJS",
+  "main": "step1.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahauser16/node-intro-exercise.git"
+  },
+  "keywords": [
+    "node",
+    "intro",
+    "springboard",
+    "assignment"
+  ],
+  "author": "ahauser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahauser16/node-intro-exercise/issues"
+  },
+  "homepage": "https://github.com/ahauser16/node-intro-exercise#readme"
+}
